@@ -13,7 +13,8 @@
         "assets.json",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "dice-pig.md"
     ],
     "testFiles": [
         "test.ts"
