@@ -1,0 +1,29 @@
+{
+    "name": "Dice Pig Assets",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "adventure": "github:microsoft/arcade-tutorial-extensions/adventure#v0.0.16",
+        "pxt-arcade-playing-cards": "github:robo-technical-group/pxt-arcade-playing-cards#v1.0.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.39",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}

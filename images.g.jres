@@ -1,0 +1,37 @@
+{
+    "image1": {
+        "data": "hwQQABAAAADd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f3f3d3d3d3d/d/d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "one"
+    },
+    "image2": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERER8R8RERERERHxHxERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERHxHxEREREREfEfEREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "two"
+    },
+    "image3": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERER8R8RERERERHxHxEREREREREREREREREREREREREREREREfEfERERERER8R8RERERERERERERERERERERERERERERERHxHxEREREREfEfEREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "three"
+    },
+    "image4": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERHxHxER8R8REfEfERHxHxERERERERERERERERERERERERERERERERERERERERERERHxHxER8R8REfEfERHxHxEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "four"
+    },
+    "image5": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERHxHxER8R8REfEfERHxHxEREREREREREREREfEfERERERER8R8RERERERERERERERHxHxER8R8REfEfERHxHxEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "five"
+    },
+    "image6": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERER8R/xH/EfERHxH/Ef8R8RERERERERERERERERERERERERERERERERERERERERERERERERERERERHxH/Ef8R8REfEf8R/xHxEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "six"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
