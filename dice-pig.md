@@ -1,4 +1,9 @@
 # Pig
+
+## Pig Dice game @unplugged
+Click the link to open the instructions:
+https://docs.google.com/presentation/d/1sJp8eSaaDqzLDD5xsIUOwdzil7KCSz7pWhmla9eRq8c/edit?usp=sharing
+
 ## Make a function called roll_dice(roll)
 Use the ``||functions:def do something||`` code and change ``||functions:def do something||`` to ``||functions:roll_dice||``
 
